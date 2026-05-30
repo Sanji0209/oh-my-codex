@@ -1,0 +1,12 @@
+streamlit
+openai==1.46.1
+python-dotenv
+pandas
+numpy
+plotly
+moviepy
+opencv-python
+pillow
+faster-whisper
+paddleocr
+sqlalchemy
